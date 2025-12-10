@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\customeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\customeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\ingredientoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\ingredientoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\menucategoryoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\menucategoryoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\menuitemingredientoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\menuitemingredientoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\menuitemoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\menuitemoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\orderoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\orderoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\restaurantoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\restaurantoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|c:\\relational database project\\quickbiterestaurant\\quickbiterestaurant\\quickbiterestaurant\\data\\supplieroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33BC62F-9778-4E60-A296-216B6A02BC21}|QuickBiteRestaurant\\QuickBiteRestaurant.csproj|solutionrelative:quickbiterestaurant\\data\\supplieroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuItemIngredientOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\MenuItemIngredientOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\MenuItemIngredientOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\MenuItemIngredientOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\MenuItemIngredientOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:25:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IngredientOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\IngredientOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\IngredientOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\IngredientOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\IngredientOperations.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAqwMYBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:24:51.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupplierOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\SupplierOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\SupplierOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\SupplierOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\SupplierOperations.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAA9wBkBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:24:17.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\OrderOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\OrderOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\OrderOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\OrderOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4BAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:23:51.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItemOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\MenuItemOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\MenuItemOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\MenuItemOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\MenuItemOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:23:28.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuCategoryOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\MenuCategoryOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\MenuCategoryOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\MenuCategoryOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\MenuCategoryOperations.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAACQBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:23:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\EmployeeOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\EmployeeOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\EmployeeOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\EmployeeOperations.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAqwJsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:22:15.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestaurantOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\RestaurantOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\RestaurantOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\RestaurantOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\RestaurantOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:21:49.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerOperations.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\CustomerOperations.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\CustomerOperations.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\CustomerOperations.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\CustomerOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:21:18.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Data\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Data\\DatabaseConnection.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Data\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T03:19:38.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Program.cs",
+              "RelativeDocumentMoniker": "QuickBiteRestaurant\\Program.cs",
+              "ToolTip": "C:\\Relational Database Project\\QuickBiteRestaurant\\QuickBiteRestaurant\\QuickBiteRestaurant\\Program.cs",
+              "RelativeToolTip": "QuickBiteRestaurant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:46:32.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

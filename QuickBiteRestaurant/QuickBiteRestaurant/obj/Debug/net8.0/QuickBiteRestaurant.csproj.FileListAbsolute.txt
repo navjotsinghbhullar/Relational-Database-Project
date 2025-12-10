@@ -1,0 +1,80 @@
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.AssemblyInfo.cs
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.exe
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.deps.json
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.runtimeconfig.json
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.pdb
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.csproj.AssemblyReference.cache
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBit.6A8EF98C.Up2Date
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\refint\QuickBiteRestaurant.dll
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.pdb
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.genruntimeconfig.cache
+C:\Users\ayush\OneDrive - Conestoga College\Desktop\Web design\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\ref\QuickBiteRestaurant.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.exe
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.deps.json
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.runtimeconfig.json
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\QuickBiteRestaurant.pdb
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\MySql.Data.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\MySqlConnector.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\ZstdSharp.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.csproj.AssemblyReference.cache
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.AssemblyInfoInputs.cache
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.AssemblyInfo.cs
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.csproj.CoreCompileInputs.cache
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBit.6A8EF98C.Up2Date
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\refint\QuickBiteRestaurant.dll
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.pdb
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\QuickBiteRestaurant.genruntimeconfig.cache
+C:\Relational Database Project\QuickBiteRestaurant\QuickBiteRestaurant\QuickBiteRestaurant\obj\Debug\net8.0\ref\QuickBiteRestaurant.dll
